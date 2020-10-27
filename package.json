@@ -1,0 +1,16 @@
+{
+  "name": "camgen",
+  "version": "1.0.0",
+  "description": "Test for Camgen LTD",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js https://we.tl/t-uD5fn5vr2z ./download"
+  },
+  "author": "Al. Zvyagintsev",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "puppeteer": "^5.4.0",
+    "throw": "^1.1.0"
+  }
+}
